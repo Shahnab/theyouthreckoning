@@ -1,0 +1,5 @@
+{
+  "name": "Population Density Globe",
+  "description": "A 3D transparent globe visualizing world population density at a 30 sq km grid.",
+  "requestFramePermissions": []
+}
